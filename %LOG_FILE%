@@ -1,0 +1,16 @@
+echo [17-02-2026 22.11.31.26] START watching "%WATCH_DIR%" (poll %INTERVAL_SECONDS%s) 
+echo [17-02-2026 22.11.31.28] START watching "%WATCH_DIR%" (poll %INTERVAL_SECONDS%s) 
+    echo [17-02-2026 22.11.32.34] CREATED %%P 
+    echo [17-02-2026 22.11.32.36] CREATED %%P 
+    echo [17-02-2026 22.11.32.75] DELETED %%P 
+    echo [17-02-2026 22.11.32.77] DELETED %%P 
+    echo [17-02-2026 22.11.33.18] MODIFIED %%P 
+    echo [17-02-2026 22.11.33.20] MODIFIED %%P 
+echo [17-02-2026 22.12.35.48] START watching "%WATCH_DIR%" (poll %INTERVAL_SECONDS%s) 
+echo [17-02-2026 22.12.35.52] START watching "%WATCH_DIR%" (poll %INTERVAL_SECONDS%s) 
+    echo [17-02-2026 22.12.37.26] CREATED %%P 
+    echo [17-02-2026 22.12.37.29] CREATED %%P 
+    echo [17-02-2026 22.12.37.89] DELETED %%P 
+    echo [17-02-2026 22.12.37.93] DELETED %%P 
+    echo [17-02-2026 22.12.38.58] MODIFIED %%P 
+    echo [17-02-2026 22.12.38.61] MODIFIED %%P 
